@@ -5,11 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Lights/LightBlink.uasset",
 				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Lights/BP_Light.uasset",
 				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StartMap.umap",
 				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/Blueprints/BP_PlayerCharacter.uasset",
-				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/Materials/MI_EmissiveBlue.uasset"
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/Materials/MI_EmissiveBlue.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Houses/Tall/LargeHouse.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Houses/Tall/BP_LargeHouse1.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Houses/Tall/BP_LargeHouse2.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Blueprints/Houses/Tall/BP_LargeHouse1.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Blueprints/Houses/Tall/BP_LargeHouse2.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Blueprints/Lights/BP_Light.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Lights/BP_Light2.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Lights/BP_Light1.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Blueprints/Lights/BP_Light2.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Blueprints/Lights/BP_Light1.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Blueprints/BP_Fan.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Lights/LightBlink.uasset"
 			]
 		}
 	]
