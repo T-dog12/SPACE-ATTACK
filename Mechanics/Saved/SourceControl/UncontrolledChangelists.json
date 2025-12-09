@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Lights/LightBlink.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StudentWork/Lights/BP_Light.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/StartMap.umap",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/b014179p/Documents/GitHub/UE5_PROJECT/Mechanics/Content/Materials/MI_EmissiveBlue.uasset"
+			]
+		}
+	]
+}
