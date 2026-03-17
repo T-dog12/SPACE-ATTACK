@@ -10,3 +10,6 @@ This project is for a university module in wair we had to make a game with a fra
 It also has another game mode where you are a tank that destroys targets, but this was to learn the way around the engine.<br>
 <br>
 All assets were provided by the University of Staffordshire
+
+# Game Play
+https://youtu.be/UBjVVJNvKZU
